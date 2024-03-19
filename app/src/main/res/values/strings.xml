@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_name">Masukkan Nama</string>
+    <string name="user_name">User Display Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tabs_description">Tabs for navigating content</string>
+    <string name="view_pager_description">Pager for displaying content</string>
+</resources>
